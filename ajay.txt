@@ -1,3 +1,5 @@
 this is computer
 this is linux
-this is github
+this is githu
+this is server
+this is mobile
